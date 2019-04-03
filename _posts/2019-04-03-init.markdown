@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Init"
+date:   2019-04-03 16:27:40 +0200
+categories: start
+---
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
